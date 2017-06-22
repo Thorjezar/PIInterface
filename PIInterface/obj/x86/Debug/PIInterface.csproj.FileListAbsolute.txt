@@ -1,0 +1,27 @@
+C:\Users\thorjezar\Documents\Visual Studio 2010\Projects\PIInterface\PIInterface\bin\Debug\PIInterface.exe
+C:\Users\thorjezar\Documents\Visual Studio 2010\Projects\PIInterface\PIInterface\bin\Debug\PIInterface.pdb
+C:\Users\thorjezar\Documents\Visual Studio 2010\Projects\PIInterface\PIInterface\obj\x86\Debug\PIInterface.Properties.Resources.resources
+C:\Users\thorjezar\Documents\Visual Studio 2010\Projects\PIInterface\PIInterface\obj\x86\Debug\PIInterface.csproj.GenerateResource.Cache
+C:\Users\thorjezar\Documents\Visual Studio 2010\Projects\PIInterface\PIInterface\obj\x86\Debug\PIInterface.exe
+C:\Users\thorjezar\Documents\Visual Studio 2010\Projects\PIInterface\PIInterface\obj\x86\Debug\PIInterface.pdb
+C:\Users\thorjezar\Documents\Visual Studio 2010\Projects\PIInterface\PIInterface\bin\Debug\PIInterface.exe.config
+C:\Users\thorjezar\Documents\Visual Studio 2010\Projects\PIInterface\PIInterface\obj\x86\Debug\PIInterface.csprojResolveAssemblyReference.cache
+C:\Users\thorjezar\Documents\Visual Studio 2010\Projects\PIInterface\PIInterface\obj\x86\Debug\PIInterface.Main.resources
+C:\Users\thorjezar\Documents\Visual Studio 2010\Projects\PIInterface\PIInterface\obj\x86\Debug\PIInterface.PIset.resources
+C:\Users\thorjezar\Documents\Visual Studio 2010\Projects\PIInterface\PIInterface\obj\x86\Debug\PIInterface.DatabaseSet.resources
+C:\Users\thorjezar\Documents\Visual Studio 2010\Projects\PIInterface\PIInterface\obj\x86\Debug\PIInterface.UploadData.resources
+E:\WORK\VS\青海西宁热电厂\接口\西宁初代接口程序\PIInterface\PIInterface\bin\Debug\PIInterface.exe.config
+E:\WORK\VS\青海西宁热电厂\接口\西宁初代接口程序\PIInterface\PIInterface\obj\x86\Debug\PIInterface.exe
+E:\WORK\VS\青海西宁热电厂\接口\西宁初代接口程序\PIInterface\PIInterface\obj\x86\Debug\PIInterface.pdb
+E:\PIInterface\PIInterface\bin\Debug\PIInterface.exe.config
+E:\PIInterface\PIInterface\obj\x86\Debug\PIInterface.exe
+E:\PIInterface\PIInterface\obj\x86\Debug\PIInterface.pdb
+E:\PIInterface\PIInterface\bin\Debug\PIInterface.exe
+E:\PIInterface\PIInterface\bin\Debug\PIInterface.pdb
+E:\PIInterface\PIInterface\obj\x86\Debug\PIInterface.csprojResolveAssemblyReference.cache
+E:\PIInterface\PIInterface\obj\x86\Debug\PIInterface.Main.resources
+E:\PIInterface\PIInterface\obj\x86\Debug\PIInterface.PIset.resources
+E:\PIInterface\PIInterface\obj\x86\Debug\PIInterface.UploadData.resources
+E:\PIInterface\PIInterface\obj\x86\Debug\PIInterface.DatabaseSet.resources
+E:\PIInterface\PIInterface\obj\x86\Debug\PIInterface.Properties.Resources.resources
+E:\PIInterface\PIInterface\obj\x86\Debug\PIInterface.csproj.GenerateResource.Cache
